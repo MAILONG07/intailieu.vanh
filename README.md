@@ -1,8 +1,6 @@
-# intailieu.vanh
 <!DOCTYPE html >
 <html>
   <head>
-  <meta name="google-site-verification" content="l1SFslDzLvCPAOglJsuOGh8YaXYZBPLqlBLsOlGwmPQ" />
   <title> intailieuvanh.vn </title>
   <style>
     h1 {color: white;}
