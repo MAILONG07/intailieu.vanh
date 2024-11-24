@@ -1,15 +1,5 @@
 <html>
   <head>
-  <title> intailieuvanh.vn </title>
-  <style>
-    h1 {color: white;}
-	h1 {margin:5px;
-        width:1690px;
-        padding:100px;
-        margin:5px;
-        background: url(https://i.imgur.com/vMCLx18.jpeg) no-repeat center / cover; }
-	p { text-indent : 100px }
-  </style>
   </head>
   <body>
     <div>
